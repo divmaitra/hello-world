@@ -1,2 +1,6 @@
 # hello-world
-Dogs are so cute, so we are gonna share the cuteness with you!!!
+
+WOOF!
+
+We are Divija and Srishti trying to connect dog lovers around the world! 
+
